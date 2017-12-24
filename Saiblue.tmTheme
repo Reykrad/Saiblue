@@ -90,7 +90,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#00EAFF</string>
+				<string>#616161</string>
 			</dict>
 		</dict>
 		<dict>
@@ -101,7 +101,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#00EB85</string>
+				<string>#00FF91</string>
 			</dict>
 		</dict>
 		<dict>
@@ -167,7 +167,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#858585</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -255,7 +255,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#00FFFF</string>
+				<string>#00CED9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -368,8 +368,6 @@ a {
 			<string>support.constant</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic          </string>
 				<key>foreground</key>
 				<string>#FF5900</string>
 			</dict>
@@ -381,10 +379,10 @@ a {
 			<string>support.type, support.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic    </string>
 				<key>foreground</key>
-				<string>#008049</string>
+				<string>#00AD99</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1108,15 +1106,13 @@ a {
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CH_color</string>
+			<string>JS color constant</string>
 			<key>scope</key>
-			<string>CH_color_50b332ff</string>
+			<string>source.js support.constant.js</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#50b332ff</string>
 				<key>foreground</key>
-				<string>#1A3B10FF</string>
+				<string>#FF5900</string>
 				<key>caret</key>
 				<string>#1A3B10FF</string>
 			</dict>
